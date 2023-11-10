@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(182, 219, 182);
+    max-width: 800px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
